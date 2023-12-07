@@ -1,0 +1,93 @@
+[
+  {
+    "key": "NeredenButonu",
+    "value": "location_svg__Rectangle",
+    "type": "id"
+  },{
+    "key": "Nereden",
+    "value": "//*[@data-testid=\"endesign-flight-origin-autosuggestion-input\"]",
+    "type": "xpath"
+  },{
+    "key": "Nereye",
+    "value": "//*[@data-testid=\"endesign-flight-destination-autosuggestion-input\"]",
+    "type": "xpath"
+  },{
+    "key": "HavaalaniSec1",
+    "value": "//*[@data-testid='endesign-flight-origin-autosuggestion-option-item-1']",
+    "type": "xpath"
+  },{
+    "key": "HavaalaniSec2",
+    "value": "//*[@data-testid=\"endesign-flight-destination-autosuggestion-option-item-0\"]",
+    "type": "xpath"
+  },
+  {
+    "key" : "GidisDonusButonu",
+    "value" : "//*[@data-testid=\"search-round-trip-text\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "NereyeButonu",
+    "value" : "//*[@data-testid=\"flight-destination-label\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "GidisTarihiButonu",
+    "value" : "//*[@data-testid='enuygun-homepage-flight-departureDate-input-comp']",
+    "type" : "xpath"
+  },
+  {
+    "key" : "GidisTarihiSec",
+    "value" : "(//*[@data-day=\"6\"])[1]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "DonusTarihiButonu",
+    "value" : "//*[@data-testid=\"enuygun-homepage-flight-returnDate-label\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "DonusTarihiSec",
+    "value" : "(//*[@data-day=\"15\"])[2]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "YolcuSayisiButonu",
+    "value" : "//*[@data-testid=\"enuygun-homepage-flight-selectPassengerAndCabin\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "Yetiskin",
+    "value" : "//*[@data-testid=\"flight-adult-counter-plus-button\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "Business",
+    "value" : "//*[@data-testid=\"enuygun-homepage-flight-businessCabin\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "TamamButonu",
+    "value" : "//*[@data-testid=\"enuygun-homepage-flight-doneBtn\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "SubmitButton",
+    "value" : "//*[@data-testid=\"enuygun-homepage-flight-submitButton\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "SearchCheck",
+    "value" : "//*[@data-testid=\"favorite-search-add-button\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "AktarmasızButonu",
+    "value" : "//*[@id=\"headlessui-tabs-panel-:ri:\"]/div/div/form/div[1]/div/div/div[2]/label/span",
+    "type" : "xpath"
+  },
+  {
+    "key" : "CookiesOk",
+    "value" : "onetrust-accept-btn-handler",
+    "type" : "id"
+  }
+]

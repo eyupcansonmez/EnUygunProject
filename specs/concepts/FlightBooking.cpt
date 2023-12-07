@@ -1,0 +1,37 @@
+
+# <gidilenYer> gidilen yer ve <gidilecekYer> gidilecek yer arasi ucuslar secilir
+* Elementine tıkla "GidisDonusButonu"
+* Elementine tıkla "NeredenButonu"
+* "Nereden" li elementi bul temizle ve <gidilenYer> değerini yaz
+* Elementine tıkla "HavaalaniSec1"
+* Elementine tıkla "NereyeButonu"
+* "Nereye" li elementi bul temizle ve <gidilecekYer> değerini yaz
+* Elementine tıkla "HavaalaniSec2"
+* Elementine tıkla "GidisTarihiButonu"
+
+# Cerezler kabul edilir
+* Elementine tıkla "CookiesOk"
+
+# Gidis ve Donus tarihleri secilir
+* Elementine tıkla "GidisTarihiSec"
+* "1" saniye bekle
+* Elementine tıkla "DonusTarihiButonu"
+* "1" saniye bekle
+* Elementine tıkla "DonusTarihiSec"
+* "1" saniye bekle
+
+# Aktarmasiz ucus secimi yapilir
+* Elementine tıkla "AktarmasızButonu"
+
+# Yolcu sayisi ve bilet sinifi secilir
+* Elementine tıkla "YolcuSayisiButonu"
+* Elementine tıkla "Yetiskin"
+* Elementine tıkla "Business"
+
+# Tamam ve arama butonuna tiklanir
+* Elementine tıkla "TamamButonu"
+* Elementine tıkla "SubmitButton"
+
+# Arama ekrani kontrolu saglanir
+* "SearchCheck" elementi "Aramayı Favorilere Ekle" değerini içeriyor mu kontrol et
+* "5" saniye bekle
