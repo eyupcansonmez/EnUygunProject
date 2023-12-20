@@ -80,7 +80,7 @@ public class BaseTest {
     private void initializeDriver() {     //belirtilen tarayıcı türüne göre(Chrome, Firefox) WebDriver nesnesi oluşturur. Arabanın modelini seçmek gibi
         switch (browserName.toLowerCase()) {
             case "chrome":                                 //Eğer browserName chrome ise bana ChromeDriver nesnesi oluşturur.
-                driver = new ChromeDriver(chromeOptions()); //Sedan
+                driver = new ChromeDriver(chromeOptions()); 
                 break;
             case "firefox":
                 driver = new FirefoxDriver(firefoxOptions()); //Hatchback
